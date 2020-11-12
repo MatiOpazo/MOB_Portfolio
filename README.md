@@ -1,4 +1,4 @@
 # MOB_Portfolio
-Portafolio de proyectos de Matias Opazo B.
+Project portfolio from Matias Opazo B.
 
-# Proyecto 1: Predicción de valores para vehiculos usados
+# Project 1: Vehicles price estimator project
