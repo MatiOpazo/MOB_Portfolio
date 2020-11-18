@@ -9,3 +9,5 @@ Project portfolio from Matias Opazo B.
 * Predictions by three models: Multiple Regression, Random Forest and K-nearest Neighbors Regression.
 
 # [Project 2: Sao Paulo crimes, looking for the safest location for an grocery store](https://github.com/Mopazob/saopaulo_crimes) 
+
+The focus of this project is to find a location for opening a safe comercial store in the city of Sao Paulo, Brazil. The report aims to different stakeholders interested in opening any business type. The first step will be to chose a safe borough, analysing the crimes and listing the amount of it committed per borough in Sao Paulo, where grocery stores are not amongst the most commom venues.
