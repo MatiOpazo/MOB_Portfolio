@@ -1,7 +1,7 @@
 # MOB_Portfolio
 Project portfolio from Matias Opazo B.
 
-# Project 1: Vehicles price estimator project
+# [Project 1: Vehicles price estimator project](https://github.com/Mopazob/vehiculos_proy)
 
 * Creates a model that estimates the vehicles prices in USA with MAE ~ $ 2.5k to help people to negotiate the price of some vehicle. 
 * Used data from Kaggle platform.
