@@ -8,4 +8,4 @@ Project portfolio from Matias Opazo B.
 * Cleaned, explained, visualize the data and then model building for predict price.
 * Predictions by three models: Multiple Regression, Random Forest and K-nearest Neighbors Regression.
 
-# [Project 2: Sao Paulo crimes, looking for the best location for an grocery store](https://github.com/Mopazob/saopaulo_crimes) 
+# [Project 2: Sao Paulo crimes, looking for the safest location for an grocery store](https://github.com/Mopazob/saopaulo_crimes) 
