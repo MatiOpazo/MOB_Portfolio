@@ -12,6 +12,11 @@ Project portfolio from Matias Opazo B.
 
 # [Project 2: Sao Paulo crimes, looking for the safest location for a comercial store](https://github.com/Mopazob/saopaulo_crimes) 
 
-The focus of this project is to find a location for opening a safe comercial store in the city of Sao Paulo, Brazil. The report aims to different stakeholders interested in opening any business type. The first step will be to chose a safe borough, analysing the crimes and listing the amount of it committed per borough in Sao Paulo, where grocery stores are not amongst the most commom venues.
+* Final project for IBM Coursera Data Science Professional Certificate.
+* Found the two safest locations for a comercial store in Sao Paulo starting from a crimes database. This boroughs are North West and East 2.
+* This project aims to manage differents tools about data world and does not have a comercial focus. Theres many comercial studies that have to be done before taking the best decision for a comercial store location.
+* Data from Kaggle platform.
+* Applied unsupervised machine learning K-means algorithm clustering model for two boroughs of Sao Paulo.
+* Used folium package and FourSquare API to explore this boroughs and segment them.
 
 ![](/images/mapa2.PNG)
