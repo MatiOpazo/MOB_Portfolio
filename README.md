@@ -5,7 +5,7 @@ Project portfolio from Matias Opazo B.
 
 _October - November 2020_
 
-* Creates a model that estimates the vehicles prices in USA with MAE ~ $ 2.5k to help people to negotiate the price of some vehicle. 
+* Worked a model which estimates the vehicles prices in USA with MAE ~ $ 2.5k to help people to negotiate the price of some vehicle. 
 * Used data from Kaggle platform.
 * Cleaned, explained, visualize the data and then model building for predict price.
 * Predictions by three models: Multiple Regression, Random Forest and K-nearest Neighbors Regression.
